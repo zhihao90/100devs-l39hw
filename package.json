@@ -1,0 +1,15 @@
+{
+  "name": "class39_hw",
+  "version": "1.0.0",
+  "description": "HW_Class39",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "WZH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
